@@ -29,6 +29,6 @@ Pitch Shifting, Time Stretching and Random Amplitude Scaling were all used and c
 
 More details available in the <a href="https://github.com/Frosslund/Deep-Learning-Singing-Voice-Separation/blob/main/Project_Report_DT2119.pdf">project report</a>
 
-## Qualitative Results
+## Visual Data Representation
 
 ![data_rep](https://github.com/Frosslund/Deep-Learning-Singing-Voice-Separation/blob/main/images/data_rep.png?raw=true)
